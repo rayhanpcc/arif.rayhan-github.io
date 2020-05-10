@@ -88,11 +88,10 @@ body {
 .resume .resume_left ul li .icon {
   width: 35px;
   height: 35px;
-  background: #fff;
-  color: #03082b;
+  color: #fff;
   border-radius: 50%;
-  margin-right: 15px;
-  font-size: 16px;
+  margin-right: 10px;
+  font-size: 20px;
   position: relative;
 }
 
